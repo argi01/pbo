@@ -1,5 +1,7 @@
-#PBO  
+Ringkasan Tugas Mata Kuliah PBO
 
-[pw](https://github.com/sismadi/pw/web/index.html)  
-[10. file I/O - localstorage](https://github.com/sismadi/pbo/10.template.js)  
-[10.studikasus.template.js](https://github.com/sismadi/pbo/10.studikasus.template.js)  
+Pengenalan PBO (https://github.com/argi01/pbo)
+Javascript after ES6 ((https://github.com/argi01/pbo3)
+Public, Private, Protected (https://github.com/argi01/tugas-PBO4)
+Inheritance, Polymorfism (https://github.com/argi01/Abstraksi-dan-Antarmuka-Interface-)
+CMS (https://github.com/argi01/cms1)
